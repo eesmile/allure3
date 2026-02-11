@@ -271,7 +271,7 @@ export class AllureReport {
       fixtures,
       attachments: attachmentsLinks,
       environments,
-      globalAttachments = [],
+      globalAttachmentIds = [],
       globalErrors = [],
       indexAttachmentByTestResult = {},
       indexTestResultByHistoryId = {},
@@ -314,7 +314,7 @@ export class AllureReport {
     await addEntry(Buffer.from(JSON.stringify(this.#reportVariables)), {
       name: AllureStoreDumpFiles.ReportVariables,
     });
-    await addEntry(Buffer.from(JSON.stringify(globalAttachments)), {
+    await addEntry(Buffer.from(JSON.stringify(globalAttachmentIds)), {
       name: AllureStoreDumpFiles.GlobalAttachments,
     });
     await addEntry(Buffer.from(JSON.stringify(globalErrors)), {
@@ -395,7 +395,6 @@ export class AllureReport {
       const indexFixturesByTestResultEntry = await dump.entryData(AllureStoreDumpFiles.IndexFixturesByTestResult);
       const indexKnownByHistoryIdEntry = await dump.entryData(AllureStoreDumpFiles.IndexKnownByHistoryId);
       const qualityGateResultsByRulesEntry = await dump.entryData(AllureStoreDumpFiles.QualityGateResultsByRules);
-
       const attachmentsEntries = Object.entries(await dump.entries()).reduce((acc, [entryName, entry]) => {
         switch (entryName) {
           case AllureStoreDumpFiles.Attachments:
@@ -428,7 +427,7 @@ export class AllureReport {
         attachments: JSON.parse(attachmentsEntry.toString("utf8")),
         environments: JSON.parse(environmentsEntry.toString("utf8")),
         reportVariables: JSON.parse(reportVariablesEntry.toString("utf8")),
-        globalAttachments: JSON.parse(globalAttachmentsEntry.toString("utf8")),
+        globalAttachmentIds: JSON.parse(globalAttachmentsEntry.toString("utf8")),
         globalErrors: JSON.parse(globalErrorsEntry.toString("utf8")),
         indexAttachmentByTestResult: JSON.parse(indexAttachmentsEntry.toString("utf8")),
         indexTestResultByHistoryId: JSON.parse(indexTestResultsByHistoryId.toString("utf8")),
@@ -439,7 +438,6 @@ export class AllureReport {
         indexKnownByHistoryId: JSON.parse(indexKnownByHistoryIdEntry.toString("utf8")),
         qualityGateResultsByRules: JSON.parse(qualityGateResultsByRulesEntry.toString("utf8")),
       };
-
       const stageTempDir = await mkdtemp(join(tmpdir(), basename(stage, ".zip")));
       const resultsAttachments: Record<string, ResultFile> = {};
 
