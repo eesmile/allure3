@@ -24,6 +24,8 @@ export class TestResultPage extends CommonPage {
   errorDiffButtonLocator: Locator;
   errorDiffLocator: Locator;
 
+  descriptionLocator: Locator;
+
   tabLocator: Locator;
 
   envItemLocator: Locator;
@@ -63,6 +65,8 @@ export class TestResultPage extends CommonPage {
     this.errorTraceLocator = page.getByTestId("test-result-error-trace");
     this.errorDiffButtonLocator = page.getByTestId("test-result-diff-button");
     this.errorDiffLocator = page.getByTestId("test-result-diff");
+
+    this.descriptionLocator = page.getByTestId("test-result-description");
 
     this.tabLocator = page.getByTestId("test-result-tab");
 
