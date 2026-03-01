@@ -1093,7 +1093,7 @@ const RAW_RUNTIME_STATE =
           ["babel-eslint", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:10.1.0"],\
           ["babel-loader", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:9.2.1"],\
           ["backbone", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:1.6.0"],\
-          ["backbone.marionette", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:3.5.1"],\
+          ["backbone.marionette", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:4.1.3"],\
           ["case-sensitive-paths-webpack-plugin", "npm:2.4.0"],\
           ["css-loader", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:7.1.2"],\
           ["css-minimizer-webpack-plugin", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:6.0.0"],\
@@ -1138,7 +1138,7 @@ const RAW_RUNTIME_STATE =
           ["split.js", "npm:1.6.5"],\
           ["style-loader", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:3.3.4"],\
           ["svg-sprite-loader", "npm:6.0.11"],\
-          ["underscore", "npm:1.13.7"],\
+          ["underscore", "npm:1.13.8"],\
           ["underscore.string", "npm:3.3.6"],\
           ["url", "npm:0.11.4"],\
           ["webpack", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:5.105.2"],\
@@ -1303,7 +1303,7 @@ const RAW_RUNTIME_STATE =
           ["svg-sprite-loader", "npm:6.0.11"],\
           ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"],\
           ["typescript-eslint", "virtual:2a41e375ad1745f4c69d568329bd8e93efd510482b591608adf07903c1c7c5da80f70ebacb4333f4d323a30d1e56bc854b865daa7bb0df195591c42c3c3dc214#npm:8.6.0"],\
-          ["underscore", "npm:1.13.7"],\
+          ["underscore", "npm:1.13.8"],\
           ["vitest", "virtual:e545774f2ccef2393aca5c009a358532c03f065393263f9cbb3ab67366c2879624d5c1730fe5313387f3f2857386a5904c6581787f320ce570367a0ce47cf7b2#npm:2.1.9"],\
           ["webpack", "virtual:24e0b849dfb6c9034992217368f7c7994d5eed61245606aebf649c30ac09a93fedc2a6b35eca5fc98c9ff108db7646895ee940e0375055ff3a6531a474d48905#npm:5.105.2"],\
           ["webpack-cli", "virtual:24e0b849dfb6c9034992217368f7c7994d5eed61245606aebf649c30ac09a93fedc2a6b35eca5fc98c9ff108db7646895ee940e0375055ff3a6531a474d48905#npm:5.1.4"],\
@@ -16396,22 +16396,22 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["backbone.marionette", [\
-      ["npm:3.5.1", {\
-        "packageLocation": "./.yarn/cache/backbone.marionette-npm-3.5.1-2e9475b8a6-e931bb592e.zip/node_modules/backbone.marionette/",\
+      ["npm:4.1.3", {\
+        "packageLocation": "./.yarn/cache/backbone.marionette-npm-4.1.3-2446b86f66-161791a009.zip/node_modules/backbone.marionette/",\
         "packageDependencies": [\
-          ["backbone.marionette", "npm:3.5.1"]\
+          ["backbone.marionette", "npm:4.1.3"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:3.5.1", {\
-        "packageLocation": "./.yarn/__virtual__/backbone.marionette-virtual-8d65239c9e/0/cache/backbone.marionette-npm-3.5.1-2e9475b8a6-e931bb592e.zip/node_modules/backbone.marionette/",\
+      ["virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:4.1.3", {\
+        "packageLocation": "./.yarn/__virtual__/backbone.marionette-virtual-4e90465748/0/cache/backbone.marionette-npm-4.1.3-2446b86f66-161791a009.zip/node_modules/backbone.marionette/",\
         "packageDependencies": [\
-          ["backbone.marionette", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:3.5.1"],\
+          ["backbone.marionette", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:4.1.3"],\
           ["@types/backbone", null],\
           ["@types/underscore", null],\
           ["backbone", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:1.6.0"],\
-          ["backbone.radio", "virtual:8d65239c9e4c1d0424fe976096f16deb2064d961e8e131211e0b6c3d4a115f91c5d595e4344484930f693793f7392872264ae05478bda1829052409b919cb8c9#npm:2.0.0"],\
-          ["underscore", "npm:1.13.7"]\
+          ["backbone.radio", "virtual:4e90465748823a9dbb5c4cdb24de2e78108e3da1ca49eb4e9954802a4eaea011476be0b91c8ea975d6e30de9edfcd3dc76178791b7197bc4dfffe33d31668860#npm:2.0.0"],\
+          ["underscore", "npm:1.13.8"]\
         ],\
         "packagePeers": [\
           "@types/backbone",\
@@ -16430,14 +16430,14 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:8d65239c9e4c1d0424fe976096f16deb2064d961e8e131211e0b6c3d4a115f91c5d595e4344484930f693793f7392872264ae05478bda1829052409b919cb8c9#npm:2.0.0", {\
-        "packageLocation": "./.yarn/__virtual__/backbone.radio-virtual-f3a0a5d437/0/cache/backbone.radio-npm-2.0.0-d3ba749270-aa1ad78a2e.zip/node_modules/backbone.radio/",\
+      ["virtual:4e90465748823a9dbb5c4cdb24de2e78108e3da1ca49eb4e9954802a4eaea011476be0b91c8ea975d6e30de9edfcd3dc76178791b7197bc4dfffe33d31668860#npm:2.0.0", {\
+        "packageLocation": "./.yarn/__virtual__/backbone.radio-virtual-4b0c93b79b/0/cache/backbone.radio-npm-2.0.0-d3ba749270-aa1ad78a2e.zip/node_modules/backbone.radio/",\
         "packageDependencies": [\
-          ["backbone.radio", "virtual:8d65239c9e4c1d0424fe976096f16deb2064d961e8e131211e0b6c3d4a115f91c5d595e4344484930f693793f7392872264ae05478bda1829052409b919cb8c9#npm:2.0.0"],\
+          ["backbone.radio", "virtual:4e90465748823a9dbb5c4cdb24de2e78108e3da1ca49eb4e9954802a4eaea011476be0b91c8ea975d6e30de9edfcd3dc76178791b7197bc4dfffe33d31668860#npm:2.0.0"],\
           ["@types/backbone", null],\
           ["@types/underscore", null],\
           ["backbone", "virtual:243a8d39f95fc50fe4c63a5921e915177d49fbc3bfea3cb45d47af64df3799b17fd8965f283c5c103c6cd4d907d37c53e23a2924d615143ff739dc016c48e6d8#npm:1.6.0"],\
-          ["underscore", "npm:1.13.7"]\
+          ["underscore", "npm:1.13.8"]\
         ],\
         "packagePeers": [\
           "@types/backbone",\
@@ -31608,6 +31608,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/underscore-npm-1.13.7-f57feeae48-1ce3368dbe.zip/node_modules/underscore/",\
         "packageDependencies": [\
           ["underscore", "npm:1.13.7"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:1.13.8", {\
+        "packageLocation": "./.yarn/cache/underscore-npm-1.13.8-25374eb9a8-b50ac5806d.zip/node_modules/underscore/",\
+        "packageDependencies": [\
+          ["underscore", "npm:1.13.8"]\
         ],\
         "linkType": "HARD"\
       }]\
