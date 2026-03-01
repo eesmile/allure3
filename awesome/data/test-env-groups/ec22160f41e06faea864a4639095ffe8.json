@@ -1,0 +1,1 @@
+{"id":"ec22160f41e06faea864a4639095ffe8","fullName":"test/allure1.test.ts#allure1 reader statuses should not take casing into account","name":"should not take casing into account","status":"passed","testResultsByEnv":{"windows-latest":"8452a73826546b93fd7dd7d0a63e4f4f","ubuntu-latest":"643763b486425c2e191b26f9ca9c4ce5","macos-latest":"87a540ef844d269791fb4b267a27536a"}}

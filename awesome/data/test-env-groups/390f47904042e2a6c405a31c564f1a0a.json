@@ -1,0 +1,1 @@
+{"id":"390f47904042e2a6c405a31c564f1a0a","fullName":"test/store/store.test.ts#visitGlobals should handle empty globals","name":"should handle empty globals","status":"passed","testResultsByEnv":{"windows-latest":"42d0c6c2bab2130d12eeaec8b35d686e","ubuntu-latest":"45963f4dcf66fc31ac5a1d39403a5323","macos-latest":"9b2b0d839cbdcfc52060993a4920cce5"}}

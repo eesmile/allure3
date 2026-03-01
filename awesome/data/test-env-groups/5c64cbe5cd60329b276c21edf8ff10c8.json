@@ -1,0 +1,1 @@
+{"id":"5c64cbe5cd60329b276c21edf8ff10c8","fullName":"test/config.test.ts#resolveConfig should return provided history path","name":"should return provided history path","status":"passed","testResultsByEnv":{"windows-latest":"8a7c1cf97ccd25c60dc8a8c99722e5a5","ubuntu-latest":"fdfde58d7973e48f9a55e2611aa33935","macos-latest":"81f87fe52b4621a1b708e7582bac3362"}}

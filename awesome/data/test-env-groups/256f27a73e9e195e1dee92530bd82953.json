@@ -1,0 +1,1 @@
+{"id":"256f27a73e9e195e1dee92530bd82953","fullName":"test/allure1.test.ts#allure1 reader steps statuses should parse a canceled step","name":"should parse a canceled step","status":"passed","testResultsByEnv":{"windows-latest":"0c74caa2a0c2083d980e937d39e03515","ubuntu-latest":"9303a248f75e6317af4845c6f99c12ad","macos-latest":"8238febd279d26fa0b9e67ba43a13d23"}}

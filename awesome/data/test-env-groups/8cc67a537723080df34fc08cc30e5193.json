@@ -1,0 +1,1 @@
+{"id":"8cc67a537723080df34fc08cc30e5193","fullName":"test/config.test.ts#loadJsonConfig should load valid json config file","name":"should load valid json config file","status":"passed","testResultsByEnv":{"windows-latest":"36e6456b25cd0db7204bd42560f20623","ubuntu-latest":"3774fad39219fa58339ab91ada0076cc","macos-latest":"cd3ae8118a64ee627a3090a438dd7798"}}

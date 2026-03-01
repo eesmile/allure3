@@ -1,0 +1,1 @@
+{"id":"b4f9c5d0558909e15ecbb4db18adbe7a","fullName":"test/service.test.ts#AllureServiceClient downloadHistory should encode branch name in URL","name":"should encode branch name in URL","status":"passed","testResultsByEnv":{"windows-latest":"47a756d367030d5ec0056450227ab565","ubuntu-latest":"a0b1a1e83ac4f565a4bcf0616ca44eb7","macos-latest":"234832dfa28457112cd6af64673a4ea7"}}

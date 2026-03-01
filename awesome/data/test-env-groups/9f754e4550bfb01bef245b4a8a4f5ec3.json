@@ -1,0 +1,1 @@
+{"id":"9f754e4550bfb01bef245b4a8a4f5ec3","fullName":"commons/summary.test.ts:23:3","name":"should not generate summary for a single report","status":"passed","testResultsByEnv":{"windows-latest":"bb4a738549ed2961683cb5c8c6b6f1cd","ubuntu-latest":"6b4595b8fd131e05f5c1f26d4c3d3c05","macos-latest":"50682104b67b3804780c9d5457a82056"}}

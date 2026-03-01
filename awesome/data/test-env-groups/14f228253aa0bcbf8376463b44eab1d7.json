@@ -1,0 +1,1 @@
+{"id":"14f228253aa0bcbf8376463b44eab1d7","fullName":"allure-awesome/features/new.test.ts:117:3","name":"should apply new filter to the tree when filter=new query parameter is present","status":"passed","testResultsByEnv":{"windows-latest":"c255001f7260c4cd3468c4afef44d5a2","ubuntu-latest":"18b03b924997f07e7d2ad69a8ab978cb","macos-latest":"722289bb7ac27f1e85be982fbb88c9a4"}}

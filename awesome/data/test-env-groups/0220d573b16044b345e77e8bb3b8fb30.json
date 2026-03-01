@@ -1,0 +1,1 @@
+{"id":"0220d573b16044b345e77e8bb3b8fb30","fullName":"test/qualityGate/rules.test.ts#maxFailuresRule should filter out known issues","name":"should filter out known issues","status":"passed","testResultsByEnv":{"windows-latest":"1b5fc892c9649dc58ce9e751c6dbe7f6","ubuntu-latest":"5082b6a37939e943fc2d9c012d4fd169","macos-latest":"c0b1281525b8b8c39f00447d7a86a44e"}}

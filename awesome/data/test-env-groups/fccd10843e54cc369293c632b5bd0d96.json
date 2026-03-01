@@ -1,0 +1,1 @@
+{"id":"fccd10843e54cc369293c632b5bd0d96","fullName":"test/allure1.test.ts#allure1 reader steps statuses should parse a failed step","name":"should parse a failed step","status":"passed","testResultsByEnv":{"windows-latest":"a209458f29fb47d249a1f1ff60b46566","ubuntu-latest":"7fed3b892ab65454bf22bbb31a0fb383","macos-latest":"04bf716852b1c9c4f804cb6f009826b7"}}

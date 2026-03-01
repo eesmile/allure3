@@ -1,0 +1,1 @@
+{"id":"65142d84fdb66234737b32bf41ac8999","fullName":"test/detectors/amazon.test.ts#amazon jobName should return the correct job name","name":"should return the correct job name","status":"passed","testResultsByEnv":{"windows-latest":"bb82ce7533cf5b4c9a774f0dc2815a8a","ubuntu-latest":"6e9e3bc424b7f2e321b9cd7d6b06616c","macos-latest":"fefda4d0415f5a7e2d80a34dacbde1c2"}}

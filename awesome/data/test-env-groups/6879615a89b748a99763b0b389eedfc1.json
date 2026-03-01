@@ -1,0 +1,1 @@
+{"id":"6879615a89b748a99763b0b389eedfc1","fullName":"test/utils/time.test.ts#formatDuration should return 0s for super low durations","name":"should return 0s for super low durations","status":"passed","testResultsByEnv":{"windows-latest":"aaa63272e67b23b4bee543bbbcb0f385","ubuntu-latest":"e6018a3bff455e96987f1843bf8e07a8","macos-latest":"8b73a5d926e8885415dea377af1de3d7"}}

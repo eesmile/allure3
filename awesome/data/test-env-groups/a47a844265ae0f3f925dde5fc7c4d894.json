@@ -1,0 +1,1 @@
+{"id":"a47a844265ae0f3f925dde5fc7c4d894","fullName":"test/history.test.ts#AllureRemoteHistory readHistory should return resolved history data","name":"should return resolved history data","status":"passed","testResultsByEnv":{"windows-latest":"7548eb30df62dd951cbc7ddede40e6d3","ubuntu-latest":"edb6a578296988e45e505783e592b26a","macos-latest":"d1be7e886e9f13132b41bfe23c1ca540"}}

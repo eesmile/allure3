@@ -1,0 +1,1 @@
+{"id":"4635504159d160b64f5c49cd62c068a2","fullName":"test/plugin.test.ts#testops plugin start should pass launchTags to createLaunch","name":"should pass launchTags to createLaunch","status":"passed","testResultsByEnv":{"windows-latest":"8269d779de7122269ab9624fba2bc0c6","ubuntu-latest":"8512f356f37d26234a7d94f8c51f0df0","macos-latest":"18126f9b3a02ca021a42b641be787a52"}}

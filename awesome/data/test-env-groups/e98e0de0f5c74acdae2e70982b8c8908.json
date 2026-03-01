@@ -1,0 +1,1 @@
+{"id":"e98e0de0f5c74acdae2e70982b8c8908","fullName":"test/allure1.test.ts#allure1 reader name should ignore an invalid title","name":"should ignore an invalid title","status":"passed","testResultsByEnv":{"windows-latest":"cc66fd6c286e052f1ca188b0cc58a2c8","ubuntu-latest":"e84f3af36b0289467bb3499fc5f3cb16","macos-latest":"09569c7ac303a75deb709bb63549269e"}}

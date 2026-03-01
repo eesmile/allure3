@@ -1,0 +1,1 @@
+{"id":"c84aee2533a0035e3d90977afc19a491","fullName":"allure-awesome/test/steps.test.ts:124:3","name":"the same error is only rendered at the leaf level","status":"passed","testResultsByEnv":{"windows-latest":"fd284eeabe3ca49ac6343bb01eddf890","ubuntu-latest":"fb1149e0865b79244a63e12e2e78e124","macos-latest":"496baecc914eb5d6c0013c2443297838"}}

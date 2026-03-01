@@ -1,0 +1,1 @@
+{"id":"8de09683af6d8b375203136c2a5db4a3","fullName":"allure-awesome/features/globals.test.ts:72:5","name":"shouldn't show global status and exit code when exit code isn't available","status":"passed","testResultsByEnv":{"windows-latest":"8cef3ad1862e7fdd4b11d6375cb76def","ubuntu-latest":"9a6f8e6e246e39a5e1093c73dc1d7629","macos-latest":"147bc522ba49bcff377677b0ed17740e"}}

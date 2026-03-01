@@ -1,0 +1,1 @@
+{"id":"7432620742dff726fba1e8596e0621cb","fullName":"test/utils.test.ts#utils stringifyStatusBadge returns green badge for passed status","name":"returns green badge for passed status","status":"passed","testResultsByEnv":{"windows-latest":"ce7d14476688a0b038a989a5e851074d","ubuntu-latest":"06468e6c3f42c918a3be0d32967b8866","macos-latest":"387f1ff30ff7068a05676ee2bb6199ab"}}

@@ -1,0 +1,1 @@
+{"id":"a82390847f09b1ec71e95057684dccc7","fullName":"test/service.test.ts#AllureServiceClient addReportFile should upload a given file","name":"should upload a given file","status":"passed","testResultsByEnv":{"windows-latest":"e41989300119fb645d4596831cd4ae3a","ubuntu-latest":"ba4f998d103c4045552eb12a735a1e40","macos-latest":"e584c2ac03e1006ea05a4e95b76d63c9"}}

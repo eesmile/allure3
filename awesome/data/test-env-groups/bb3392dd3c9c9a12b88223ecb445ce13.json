@@ -1,0 +1,1 @@
+{"id":"bb3392dd3c9c9a12b88223ecb445ce13","fullName":"test/toolRunner.test.ts#invokeStdoutCliTool text mode should emit unterminated line","name":"should emit unterminated line","status":"passed","testResultsByEnv":{"windows-latest":"e395be52764e8c1df01cbd7821dc7130","ubuntu-latest":"aab7dfd0ff299e2dcb80e6f5675c9d62","macos-latest":"214478eccd1cc985727c8b8ffbecf0eb"}}

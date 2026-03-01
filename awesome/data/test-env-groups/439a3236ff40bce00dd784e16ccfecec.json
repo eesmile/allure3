@@ -1,0 +1,1 @@
+{"id":"439a3236ff40bce00dd784e16ccfecec","fullName":"allure-awesome/features/owner.test.ts:111:3","name":"should show only Copy button in owner popup when owner is plain email address","status":"passed","testResultsByEnv":{"windows-latest":"e299115c15518094dd772ab7197e44b4","ubuntu-latest":"419abd5dd9d1a2294b5e36d82d55ac8e","macos-latest":"2f200b28a0365d813151993d3b9e0250"}}

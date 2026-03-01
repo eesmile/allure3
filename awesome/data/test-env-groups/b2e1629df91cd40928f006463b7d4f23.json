@@ -1,0 +1,1 @@
+{"id":"b2e1629df91cd40928f006463b7d4f23","fullName":"test/allure1.test.ts#allure1 reader descriptions should ignore a missing value","name":"should ignore a missing value","status":"passed","testResultsByEnv":{"windows-latest":"90e18fd8f3f41482119b666ae00c8278","ubuntu-latest":"1e1c938880705caa66fdd55970aaf8b9","macos-latest":"9481cad0949f635798347023f2c08fba"}}

@@ -1,0 +1,1 @@
+{"id":"42211fb37226c1300d3725ae0195abba","fullName":"test/allure1.test.ts#allure1 reader labels should handle an ill-formed name","name":"should handle an ill-formed name","status":"passed","testResultsByEnv":{"windows-latest":"6f13c5be91c5e126d4ee9fccb22dea86","ubuntu-latest":"88775b6d645c6a4aa8608f04692bd8be","macos-latest":"0e02c6e1d543d8ba74db5f8479469c4e"}}

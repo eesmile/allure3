@@ -1,0 +1,1 @@
+{"id":"6fe58b20395d8aa188bf0afcc08687af","fullName":"test/unit/html.test.ts#returns index.html file by the full path","name":"returns index.html file by the full path","status":"passed","testResultsByEnv":{"windows-latest":"77735041eaf1460b48808b119aad50e1","ubuntu-latest":"c3877dbfc60d205ddf6cbdfc07512161","macos-latest":"be67279f4e4aec025b07b79ecdb335b1"}}

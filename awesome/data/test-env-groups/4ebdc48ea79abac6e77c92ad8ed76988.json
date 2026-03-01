@@ -1,0 +1,1 @@
+{"id":"4ebdc48ea79abac6e77c92ad8ed76988","fullName":"test/util/event.test.ts#Events should send multiple test result event batches","name":"should send multiple test result event batches","status":"passed","testResultsByEnv":{"windows-latest":"69e9bccefa2de0fcd97ace328e29eebd","ubuntu-latest":"92746241c788e4a982549975edfbd2e1","macos-latest":"75172e8f976ee7ec31245b6f290c1240"}}

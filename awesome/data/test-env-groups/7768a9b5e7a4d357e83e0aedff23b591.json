@@ -1,0 +1,1 @@
+{"id":"7768a9b5e7a4d357e83e0aedff23b591","fullName":"test/detectors/amazon.test.ts#amazon jobURL should return the correct job URL","name":"should return the correct job URL","status":"passed","testResultsByEnv":{"windows-latest":"9828ae43b600c736915df5399752b0b9","ubuntu-latest":"a4dc1ae3faf9201534f0b0e87433e75b","macos-latest":"e1302c32d03fa5fd3cba9f9d6e5e2aaa"}}

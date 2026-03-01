@@ -1,0 +1,1 @@
+{"id":"b35b0d8a677084fa162e693a52a24138","fullName":"test/detectors/circle.test.ts#circle jobName should return the correct job name","name":"should return the correct job name","status":"passed","testResultsByEnv":{"windows-latest":"e272e5dceeeaf81a90a1e1538460e13c","ubuntu-latest":"8011ea43ac88b6ce0c76dc97cd952dcf","macos-latest":"9380da0f078311d9508a11d5bb2b88b1"}}

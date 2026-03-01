@@ -1,0 +1,1 @@
+{"id":"641093e9e5256a8fb9ca9bc20dc34bdc","fullName":"test/utils/categories.test.ts#normalizeCategoriesConfig throws when rule is not an object","name":"throws when rule is not an object","status":"passed","testResultsByEnv":{"windows-latest":"485b409bef6600c8cfd1558d632109c4","ubuntu-latest":"532649d574c66648c8187521a837290f","macos-latest":"ae7775a1cd4c679164c5e0a12838ad64"}}

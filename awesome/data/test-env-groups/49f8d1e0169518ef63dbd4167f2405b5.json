@@ -1,0 +1,1 @@
+{"id":"49f8d1e0169518ef63dbd4167f2405b5","fullName":"test/service.test.ts#AllureServiceClient addReportAsset should upload a given file","name":"should upload a given file","status":"passed","testResultsByEnv":{"windows-latest":"067efce7899ae943aa1b48ca448c2e21","ubuntu-latest":"989383992d71e4bf0acc04497c350fc4","macos-latest":"e13c040d3df9f1b9419c553a154a63f3"}}

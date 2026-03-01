@@ -1,0 +1,1 @@
+{"id":"2760f5c8a85939de6e0da26c5e5b4b85","fullName":"test/utils/categories.test.ts#normalizeCategoriesConfig throws when name is empty","name":"throws when name is empty","status":"passed","testResultsByEnv":{"windows-latest":"dc352b4167baaf7ee93dd1eb28b351b8","ubuntu-latest":"713d55882e1542b2ced66316f8f6a788","macos-latest":"a92821db0408aec854b5d3e0037cbe67"}}

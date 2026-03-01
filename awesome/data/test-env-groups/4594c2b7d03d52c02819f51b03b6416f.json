@@ -1,0 +1,1 @@
+{"id":"4594c2b7d03d52c02819f51b03b6416f","fullName":"test/utils/status.test.ts#getWorstStatus should return worst status","name":"should return worst status","status":"passed","testResultsByEnv":{"windows-latest":"cf8dc7fe41dfc9b1aed9de555a471aba","ubuntu-latest":"4c3de976973958b01e1dfde6691a0243","macos-latest":"0b296ec04f938cca358fbe7300efe8b0"}}

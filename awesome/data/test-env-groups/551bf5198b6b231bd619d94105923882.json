@@ -1,0 +1,1 @@
+{"id":"551bf5198b6b231bd619d94105923882","fullName":"test/utils/dictionary.test.ts#createDictionary creates object without prototype","name":"creates object without prototype","status":"passed","testResultsByEnv":{"windows-latest":"e1fa91cad7ad70f8759d6d3f708e556c","ubuntu-latest":"0e2b86a72a15ce41217c5afeb5b1a9b2","macos-latest":"3b47679d3eae1d4ef1d6d0fc8c5b8f76"}}

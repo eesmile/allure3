@@ -1,0 +1,1 @@
+{"id":"01409b71c36c7e1432585e6defb2c0c9","fullName":"src/components/Button/Button.test.tsx#Button renders as a link when href is provided","name":"renders as a link when href is provided","status":"passed","testResultsByEnv":{"windows-latest":"90a063ae38a22cc35232863ceef32330","ubuntu-latest":"fdf3ea7015279d80dcf6ae88ce872864","macos-latest":"dec12799de974284674003c1600d8e3b"}}

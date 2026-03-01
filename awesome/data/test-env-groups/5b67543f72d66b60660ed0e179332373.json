@@ -1,0 +1,1 @@
+{"id":"5b67543f72d66b60660ed0e179332373","fullName":"test/detectors/azure.test.ts#azure jobRunURL should return the correct job run URL","name":"should return the correct job run URL","status":"passed","testResultsByEnv":{"windows-latest":"4e957126b026f4e96f529775c838ca86","ubuntu-latest":"0b79a979d24871c5053220a64ae9a984","macos-latest":"201d8af9688bee22fd8a22a82c10ef0a"}}

@@ -1,0 +1,1 @@
+{"id":"63f140b3c4accc3dad8f64ac0c9b5c80","fullName":"test/detectors/amazon.test.ts#amazon jobRunUID should return the correct job run UID","name":"should return the correct job run UID","status":"passed","testResultsByEnv":{"windows-latest":"45e23b7d8d2fe3bb89e66eafe4c289b0","ubuntu-latest":"eb76b11e8923dc2baa5ce451d9ee69c2","macos-latest":"021d58df47778cb03b3477957644a7ad"}}

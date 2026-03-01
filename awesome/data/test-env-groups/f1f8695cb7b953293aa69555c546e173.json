@@ -1,0 +1,1 @@
+{"id":"f1f8695cb7b953293aa69555c546e173","fullName":"test/index.test.ts#CsvPlugin should respect disableHeaders option","name":"should respect disableHeaders option","status":"passed","testResultsByEnv":{"windows-latest":"dd8d09a364d22e01c790f7bfe25dc217","ubuntu-latest":"6db0520778401b0ba32cf55bf5f81f3a","macos-latest":"b3f5160fc0341c5ad68a9340c232818f"}}

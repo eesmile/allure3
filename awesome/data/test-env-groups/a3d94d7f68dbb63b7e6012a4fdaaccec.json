@@ -1,0 +1,1 @@
+{"id":"a3d94d7f68dbb63b7e6012a4fdaaccec","fullName":"test/config.test.ts#loadYamlConfig should load valid yaml config file","name":"should load valid yaml config file","status":"passed","testResultsByEnv":{"windows-latest":"8e57cbf92f5f7cd8b4b0b8cddfd50d60","ubuntu-latest":"74f08115a5e6f2fa616533dc860866f2","macos-latest":"ac28cec5dc20e6bfde4ff7f00dd63595"}}

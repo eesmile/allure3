@@ -1,0 +1,1 @@
+{"id":"ee5627b2d522d1df63981f854c9c2999","fullName":"allure-awesome/test/tree.test.ts:341:3","name":"should assign default labels when test results don't any matched one label","status":"passed","testResultsByEnv":{"windows-latest":"6f7a87ae0d9c60e038b6a96d6f350155","ubuntu-latest":"db35a8beb9160a04bd7ece563dfb7527","macos-latest":"1a1c37258384e22d1c1e3b1332058462"}}

@@ -1,0 +1,1 @@
+{"id":"470f469a15052a7d0c1004615485b67e","fullName":"test/service.test.ts#AllureServiceClient projects should return the list of projects","name":"should return the list of projects","status":"passed","testResultsByEnv":{"windows-latest":"00ffaea5748a9a68548c8b0cb6340d07","ubuntu-latest":"ea6f16c46d3efd6cda331a9f6551ce99","macos-latest":"71fbb2285067da16e9423e31a189116c"}}

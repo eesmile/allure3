@@ -1,0 +1,1 @@
+{"id":"7bd6a753f8a39824517ecee6cceecc64","fullName":"allure-awesome/test/reportOptions.test.ts:142:5","name":"render test results which match the filter","status":"passed","testResultsByEnv":{"windows-latest":"42824c078f3aaee4636acc28eb3bf7b8","ubuntu-latest":"ffe4df7ae01bf7b769ee6a847420ffce","macos-latest":"a624d1d1f96e881b6bd117603464cad8"}}

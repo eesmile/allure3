@@ -1,0 +1,1 @@
+{"id":"95b6726ab5939a495c43c1d872053380","fullName":"test/allure1.test.ts#allure1 reader fullName should use the test case's labels","name":"should use the test case's labels","status":"passed","testResultsByEnv":{"windows-latest":"f1c9336eed8e30a65a96e9567e7d664c","ubuntu-latest":"20fc301333256596c8c6fd323ed05403","macos-latest":"866705f7b86d80f4110a2801cb065c84"}}

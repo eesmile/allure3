@@ -1,0 +1,1 @@
+{"id":"18e1c0a175a4cf23f94bb4b1b925204d","fullName":"test/index.test.ts#JiraPlugin Results upload should handle tests without parameters","name":"should handle tests without parameters","status":"passed","testResultsByEnv":{"windows-latest":"fba91f5f1fba681a914db6082a5e59e6","ubuntu-latest":"0452e2abf4950ab8471f685131fee06d","macos-latest":"441719b352c8ed5e31f2ff83c4ad4644"}}

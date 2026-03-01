@@ -1,0 +1,1 @@
+{"id":"819f90ad080c1270c3f64f12073f8c1b","fullName":"test/theme/store.test.ts#theme store userTheme signal should restore from localStorage","name":"should restore from localStorage","status":"passed","testResultsByEnv":{"windows-latest":"2cb9fc236ea4377b3b14890fc9158fb7","ubuntu-latest":"ec9be9b431a4304af593b851adaee2e8","macos-latest":"8d09ed94441f34ea0424110e838e248a"}}

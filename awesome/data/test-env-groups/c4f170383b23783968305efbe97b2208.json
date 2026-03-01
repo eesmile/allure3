@@ -1,0 +1,1 @@
+{"id":"c4f170383b23783968305efbe97b2208","fullName":"test/config.test.ts#resolveConfig should allow to override given history limit","name":"should allow to override given history limit","status":"passed","testResultsByEnv":{"windows-latest":"11524cc1316f772b96d562cf4e78ce56","ubuntu-latest":"9b80ae9bb81e809f434259391ddd57be","macos-latest":"faeaba609f0013258c8b223a9f8fef0a"}}

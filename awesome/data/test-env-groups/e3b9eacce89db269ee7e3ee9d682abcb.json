@@ -1,0 +1,1 @@
+{"id":"e3b9eacce89db269ee7e3ee9d682abcb","fullName":"test/detectors/drone.test.ts#drone jobURL should return the correct job URL","name":"should return the correct job URL","status":"passed","testResultsByEnv":{"windows-latest":"e6b30f22e4becbfc587b35f96d3fe49f","ubuntu-latest":"ae7c8943c9e4bda6e38b015902e48e31","macos-latest":"7d90fdbe764f32003b0ba80227d13f67"}}

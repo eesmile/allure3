@@ -1,0 +1,1 @@
+{"id":"59e8b007df7ecf7a9a311e87bc0d1554","fullName":"test/detectors/jenkins.test.ts#jenkins jobUID should return the correct job UID","name":"should return the correct job UID","status":"passed","testResultsByEnv":{"windows-latest":"7cb08944c8935087be626beaa87a99ea","ubuntu-latest":"68c0c9f374aa1f32cd7723040eecfeba","macos-latest":"c2f9ffcdf311bbe0886bd75f7229b11e"}}

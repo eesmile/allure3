@@ -1,0 +1,1 @@
+{"id":"8f9bedb6ae98d802f0be895ad7dc346f","fullName":"allure-awesome/test/tree.test.ts:407:3","name":"should render mixed suite depth when some labels are missing","status":"passed","testResultsByEnv":{"windows-latest":"bf88ebdb8b916510d27f06e0ed70d716","ubuntu-latest":"59edbdbb9f2f47ee3e9abf4a30194c51","macos-latest":"5bd86428539e00a86e9ab22d922d41b9"}}

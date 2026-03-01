@@ -1,0 +1,1 @@
+{"id":"a8b07887cab4a7ced0dd9fb6ea9f3a5e","fullName":"test/store/store.test.ts#dump state should dump and restore qualityGateResults","name":"should dump and restore qualityGateResults","status":"passed","testResultsByEnv":{"windows-latest":"cc1e93d4880883ba0defbb9e395101ba","ubuntu-latest":"88069489ca095505f70aefcd73ce7ec0","macos-latest":"c22cf560dc4866c64111de410e707e24"}}

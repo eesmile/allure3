@@ -1,0 +1,1 @@
+{"id":"097d9e64deb8cf53ea4bc94ab4a2a0d2","fullName":"test/index.test.ts#CsvPlugin should respect custom fileName (relative path)","name":"should respect custom fileName (relative path)","status":"passed","testResultsByEnv":{"windows-latest":"71969a510ba6354592e3a4716905c84a","ubuntu-latest":"40e48905a465c46fc55557eceed58944","macos-latest":"edc085eb54bd48cc7923d26bec6bee9b"}}

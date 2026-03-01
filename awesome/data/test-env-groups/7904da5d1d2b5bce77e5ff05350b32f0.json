@@ -1,0 +1,1 @@
+{"id":"7904da5d1d2b5bce77e5ff05350b32f0","fullName":"test/config.test.ts#readConfig should read a .mjs config","name":"should read a .mjs config","status":"passed","testResultsByEnv":{"windows-latest":"1901e3f56c6a8dc4f570eca2aab38e52","ubuntu-latest":"ec9a7d961d28ccb3008be49f4c189f57","macos-latest":"ef4b8b01e3bbec73b2198ae1babac057"}}

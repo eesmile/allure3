@@ -1,0 +1,1 @@
+{"id":"b17ebbfa985c95cbff2ef63831465e5c","fullName":"test/watcher.test.ts#newFilesInDirectoryWatcher should finish initial scan on abort","name":"should finish initial scan on abort","status":"passed","testResultsByEnv":{"windows-latest":"14a7c2310eaa13891b0a638bd3fdc36a","ubuntu-latest":"6b80786c10ba0e70344123608b4817e0","macos-latest":"74570f9d753d5d07280a14bf2e18ba0b"}}

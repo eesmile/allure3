@@ -1,0 +1,1 @@
+{"id":"c547295133ab3381c1c64548b6b35c7d","fullName":"test/commands/open.test.ts#open command should prefer CLI arguments over config","name":"should prefer CLI arguments over config","status":"passed","testResultsByEnv":{"windows-latest":"f51aacd01fd43a892914764a70d676d3","ubuntu-latest":"fc3591fabe624bf07e738bc1cc1073a6","macos-latest":"172e7d2f72a41094147c33366280790e"}}

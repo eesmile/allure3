@@ -1,0 +1,1 @@
+{"id":"8d2f9262aa7b36ed68fcc59c15cad1d2","fullName":"test/utils/ownerAddress.test.ts#utils > ownerAddress parseOwnerAddress accepts http URL","name":"accepts http URL","status":"passed","testResultsByEnv":{"windows-latest":"3cd2a11b096289c4125ff26c19818f07","ubuntu-latest":"1810703782accc0dbceaefffc79111f6","macos-latest":"3df61862f0c96a02626bd70d92795560"}}

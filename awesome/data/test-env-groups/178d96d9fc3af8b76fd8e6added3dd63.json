@@ -1,0 +1,1 @@
+{"id":"178d96d9fc3af8b76fd8e6added3dd63","fullName":"test/allure1.test.ts#allure1 reader steps attachments should ignore an invalid source","name":"should ignore an invalid source","status":"passed","testResultsByEnv":{"windows-latest":"3ba1065a24eaedb1422083e8ae7f20d3","ubuntu-latest":"2b798c74802448cbe8cc7cfeca68135c","macos-latest":"178730cb4a8521921d1b25967b5057ac"}}

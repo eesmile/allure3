@@ -1,0 +1,1 @@
+{"id":"f62dc3341fa505bb35fd5e35a72237b8","fullName":"test/detectors/circle.test.ts#circle jobURL should return the correct job URL","name":"should return the correct job URL","status":"passed","testResultsByEnv":{"windows-latest":"b65fbbab4e106cdb7894029efa45ac71","ubuntu-latest":"7237c2d62cd8d4d1b0f0cbb88047c57a","macos-latest":"926ce29d2f09056c4b4bb5f460adea7c"}}

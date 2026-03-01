@@ -1,0 +1,1 @@
+{"id":"524a448f8a53656a76bb786c240a9b60","fullName":"allure-awesome/test/testResult.test.ts:226:5","name":"failed test contains error actual/expected comparison","status":"passed","testResultsByEnv":{"windows-latest":"856d35aceed771e5278b87274a21da72","ubuntu-latest":"edd57645eee2ca1829ff35a34364a03d","macos-latest":"ec5d74fc964f35de46a6c921ecb6d67a"}}

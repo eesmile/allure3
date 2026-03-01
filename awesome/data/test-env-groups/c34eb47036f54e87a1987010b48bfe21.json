@@ -1,0 +1,1 @@
+{"id":"c34eb47036f54e87a1987010b48bfe21","fullName":"test/allure2.test.ts#allure2 reader should parse flaky status detail","name":"should parse flaky status detail","status":"passed","testResultsByEnv":{"windows-latest":"c9e67eb9bff33d1a93eb81f01772bbc8","ubuntu-latest":"bc011412e72d4165b755f5982855e8bc","macos-latest":"eb2dee59becfce1027b294fed6782945"}}

@@ -1,0 +1,1 @@
+{"id":"e720133d76d0bf7e1f1ab5e9a0d197a2","fullName":"allure-awesome/features/owner.test.ts:69:3","name":"should show Copy email and Copy buttons in owner popup for RFC 2822 email","status":"passed","testResultsByEnv":{"windows-latest":"ba103102563dc8153316b5b887119cc9","ubuntu-latest":"4fbbe61c3b7eb461b3e7059afa0e82a3","macos-latest":"91a202c3dee3deb5e1fdd9499be06681"}}

@@ -1,0 +1,1 @@
+{"id":"2b7716a63396034c443dd0cb850a6eae","fullName":"test/theme/actions.test.ts#theme actions toggleUserTheme should toggle from auto to light","name":"should toggle from auto to light","status":"passed","testResultsByEnv":{"windows-latest":"437b18300835fdca26035e8256e8807d","ubuntu-latest":"dff5ce8972551bbc4e8f0d8f124dcb17","macos-latest":"c015f1c9e010e817a7979e6251095b86"}}

@@ -1,0 +1,1 @@
+{"id":"57d4cd502de0eaa819234918a37caaa8","fullName":"test/xcresult.test.ts#A MAC machine activities outcomes should correctly aggregate failed assertions on different levels","name":"should correctly aggregate failed assertions on different levels","status":"passed","testResultsByEnv":{"macos-latest":"4fba131b79ce61010fc03f411bb10a0a"}}

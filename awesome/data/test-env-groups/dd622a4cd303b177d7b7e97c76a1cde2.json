@@ -1,0 +1,1 @@
+{"id":"dd622a4cd303b177d7b7e97c76a1cde2","fullName":"test/toolRunner.test.ts#invokeStdoutCliTool should accept a user-defined exit code","name":"should accept a user-defined exit code","status":"passed","testResultsByEnv":{"windows-latest":"32b154f30de07c0bd12754385a5727dc","ubuntu-latest":"cc567c71287bfad14d07b92ef5d9652d","macos-latest":"bcf650e6170aac95247d70dbde13c1a3"}}

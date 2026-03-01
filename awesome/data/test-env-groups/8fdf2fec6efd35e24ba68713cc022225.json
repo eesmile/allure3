@@ -1,0 +1,1 @@
+{"id":"8fdf2fec6efd35e24ba68713cc022225","fullName":"test/detect.test.ts#detectContentType should detect sample.jpeg as image/jpeg","name":"should detect sample.jpeg as image/jpeg","status":"passed","testResultsByEnv":{"windows-latest":"ef14c66e7649c5ee6f32b900e0c3627c","ubuntu-latest":"a9d274a2d9c6a7d975523f721c7a6edc","macos-latest":"338e530af4373bf12d249760cfcafa20"}}

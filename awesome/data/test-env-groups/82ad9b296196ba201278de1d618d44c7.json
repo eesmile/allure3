@@ -1,0 +1,1 @@
+{"id":"82ad9b296196ba201278de1d618d44c7","fullName":"allure-awesome/features/retries.test.ts:84:5","name":"should show retry icon in the tree for tests with retries","status":"passed","testResultsByEnv":{"windows-latest":"970f643e50ffc0ea5e67f9b376922a45","ubuntu-latest":"38ed227b20867e8d6efd66df5a4c22cd","macos-latest":"13e8d2785efc7e3fdf2dd474f5cb2a72"}}

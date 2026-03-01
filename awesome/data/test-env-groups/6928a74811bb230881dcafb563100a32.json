@@ -1,0 +1,1 @@
+{"id":"6928a74811bb230881dcafb563100a32","fullName":"allure-awesome/features/owner.test.ts:83:3","name":"should show URL link and Copy button in owner popup for RFC 2822 URL","status":"passed","testResultsByEnv":{"windows-latest":"cfe1fb2c0d35cc18280290d656dbba19","ubuntu-latest":"8a6e523497a1064f95d09b3d4477cc24","macos-latest":"e85cf7f92b9b978013ccb8fe45e63b52"}}

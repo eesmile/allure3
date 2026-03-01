@@ -1,0 +1,1 @@
+{"id":"ca3850c44540a0070f8dfe47c47da074","fullName":"test/utils/time.test.ts#formatDuration should show 0h with days instead of seconds","name":"should show 0h with days instead of seconds","status":"passed","testResultsByEnv":{"windows-latest":"0bc135070ff8f2a7e1bd907d746dae03","ubuntu-latest":"05dffd1e2424cf892354eebf03195506","macos-latest":"90ae4015952d8bed7b7c1289de9f48b4"}}

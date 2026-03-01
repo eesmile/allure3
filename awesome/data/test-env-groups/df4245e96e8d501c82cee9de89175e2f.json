@@ -1,0 +1,1 @@
+{"id":"df4245e96e8d501c82cee9de89175e2f","fullName":"test/toolRunner.test.ts#invokeStdoutCliTool binary mode should iterate over some output","name":"should iterate over some output","status":"passed","testResultsByEnv":{"windows-latest":"ec2e3eedfc2c18962efebf2a0d9910de","ubuntu-latest":"905d6506c67ee6403b4d4f34ffc53bec","macos-latest":"85267bab8f2269b0db93e93a44afcaa1"}}

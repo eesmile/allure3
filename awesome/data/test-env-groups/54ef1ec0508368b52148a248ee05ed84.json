@@ -1,0 +1,1 @@
+{"id":"54ef1ec0508368b52148a248ee05ed84","fullName":"test/cucumberjson.test.ts#cucumberjson reader reference step statuses should parse a pending step","name":"should parse a pending step","status":"passed","testResultsByEnv":{"windows-latest":"9fc8611eed94e0bbfa38dece76871137","ubuntu-latest":"f6deae3d1621c57f892ecc0ff7635129","macos-latest":"576fe9c3c733b149025b4f1974e2935b"}}

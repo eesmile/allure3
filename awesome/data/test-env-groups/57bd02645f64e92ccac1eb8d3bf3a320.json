@@ -1,0 +1,1 @@
+{"id":"57bd02645f64e92ccac1eb8d3bf3a320","fullName":"test/detectors/bitbucket.test.ts#bitbucket getJobURL should return the correct job URL","name":"should return the correct job URL","status":"passed","testResultsByEnv":{"windows-latest":"92f86df9e711310733014c938a6cea83","ubuntu-latest":"38820a0f6e50041a95e9b34e04955b7e","macos-latest":"9ce37fbeb37938f4a792da3e22578874"}}

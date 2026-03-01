@@ -1,0 +1,1 @@
+{"id":"8b325ad5dd249a66ec6236e5f5939a1e","fullName":"test/cucumberjson.test.ts#cucumberjson reader reference step statuses should parse a skipped step","name":"should parse a skipped step","status":"passed","testResultsByEnv":{"windows-latest":"6a8d66c1a937e0e5faa1ae6381599335","ubuntu-latest":"3ee7cae81dd9bbd9d071361ad28499fd","macos-latest":"f3f821274aa2a7de830e7256071e63bc"}}

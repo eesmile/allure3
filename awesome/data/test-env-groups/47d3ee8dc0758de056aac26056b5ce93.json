@@ -1,0 +1,1 @@
+{"id":"47d3ee8dc0758de056aac26056b5ce93","fullName":"test/theme/store.test.ts#theme store userTheme signal should initialize with THEME_AUTO","name":"should initialize with THEME_AUTO","status":"passed","testResultsByEnv":{"windows-latest":"65fecb91885b0bbe725192f1dee62e63","ubuntu-latest":"cdd84829dbbd255338d1bfb25b685582","macos-latest":"9ecc9dc80cc490d827b1b5b0fb7fdf1e"}}

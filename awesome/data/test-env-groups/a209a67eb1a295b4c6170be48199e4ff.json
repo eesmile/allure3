@@ -1,0 +1,1 @@
+{"id":"a209a67eb1a295b4c6170be48199e4ff","fullName":"test/cucumberjson.test.ts#cucumberjson reader reference step statuses should parse a failed step","name":"should parse a failed step","status":"passed","testResultsByEnv":{"windows-latest":"466e2b9893d44c8bce7314f69d57bd80","ubuntu-latest":"697c3ab26f20f44eb5df5c9c84bf4572","macos-latest":"ed85fc3fcf9eade2784523b6fe018752"}}

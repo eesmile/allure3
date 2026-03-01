@@ -1,0 +1,1 @@
+{"id":"09a60e16fe6f72db19d45d15d7628dc0","fullName":"allure-awesome/features/flaky.test.ts:117:3","name":"should show flaky icon only for flaky tests in the tree","status":"passed","testResultsByEnv":{"windows-latest":"a58df446e437d96e655ed06690aab3d0","ubuntu-latest":"3225b05a994a4c755d2f21d7b9337f61","macos-latest":"6a489274426e7c0535ba840f6e3d4e67"}}

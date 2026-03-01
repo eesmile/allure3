@@ -1,0 +1,1 @@
+{"id":"b06e2999f1fd50fa00ba06758033e965","fullName":"test/allure1.test.ts#allure1 reader should parse empty xml file","name":"should parse empty xml file","status":"passed","testResultsByEnv":{"windows-latest":"5ed64eda6c8b6d5883a4b8c20df43a92","ubuntu-latest":"2fa3e4ce3dffdc4e944164e3047bc5a9","macos-latest":"2ec3ee57397a607c608a64f3d95f6ec2"}}
