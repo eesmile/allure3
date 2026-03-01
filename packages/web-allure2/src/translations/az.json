@@ -67,7 +67,7 @@
     "language": "Dili dəyiş"
   },
   "errors": {
-    "missedAttachment": "Əlavə tapılmadı",
+    "missedAttachment": "Qoşma tapılmadı",
     "notFound": "Tapılmadı"
   },
   "marks": {
@@ -122,7 +122,7 @@
     "execution": {
       "body": "Test gövdəsi",
       "downloadAttachment": {
-        "tooltip": "Əlavəni yeni tabda aç"
+        "tooltip": "Qoşmanı yeni tabda aç"
       },
       "name": "İcra",
       "setup": "Quraşdırma (Setup)",
@@ -162,8 +162,8 @@
     },
     "stats": {
       "count": {
-        "attachments": "{{count}} əlavə",
-        "attachments_plural": "{{count}} əlavə",
+        "attachments": "{{count}} qoşma",
+        "attachments_plural": "{{count}} qoşma",
         "parameters": "{{count}} parametr",
         "parameters_plural": "{{count}} parametr",
         "steps": "{{count}} alt-addım",

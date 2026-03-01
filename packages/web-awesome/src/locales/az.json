@@ -19,7 +19,7 @@
   "tabs": {
     "total": "Hamısı",
     "results": "Nəticələr",
-    "globalAttachments": "Qlobal əlavələr",
+    "globalAttachments": "Qlobal qoşmalar",
     "globalErrors": "Qlobal xətalar",
     "qualityGates": "Keyfiyyət meyarları",
     "categories": "Kateqoriyalar"
@@ -103,7 +103,7 @@
     "no-tests-found": "Nəticə tapılmadı",
     "no-message-provided": "Mesaj təqdim edilməyib",
     "clear-filters": "Filtrləri təmizlə",
-    "no-attachments-results": "Əlavələr haqqında məlumat yoxdur",
+    "no-attachments-results": "Qoşmalar haqqında məlumat yoxdur",
     "no-global-errors-results": "Qlobal xətalar haqqında məlumat yoxdur",
     "no-quality-gate-results": "Keyfiyyət meyarları haqqında məlumat yoxdur",
     "no-history-results": "Tarixçə haqqında məlumat yoxdur",
@@ -140,7 +140,7 @@
     "links": "Keçidlər",
     "overview": "Ümumi baxış",
     "history": "Tarixçə",
-    "attachments": "Əlavələr",
+    "attachments": "Qoşmalar",
     "retries": "Təkrar cəhdlər",
     "environments": "Mühit",
     "error": "Xəta",
@@ -157,10 +157,10 @@
     "finishedAtBoth": "{{formattedCreatedAt}}, çıxış kodu {{actual}} ilə (ilkin {{original}})"
   },
   "controls": {
-    "newTabAttachment": "Əlavəni yeni tabda aç",
+    "newTabAttachment": "Qoşmanı yeni tabda aç",
     "nextTR": "Növbəti test nəticəsi",
     "prevTR": "Əvvəlki test nəticəsi",
-    "downloadAttachment": "Əlavəni yüklə",
+    "downloadAttachment": "Qoşmanı yüklə",
     "backto": "Geri dön",
     "clipboard": "Mübadilə buferinə kopyala",
     "clipboardError": "Dəyər kopyalana bilmir. Brauzeriniz bu funksiyanı dəstəkləmir",
@@ -185,7 +185,7 @@
     "expected": "Gözlənilən"
   },
   "errors": {
-    "missedAttachment": "Əlavə tapılmadı"
+    "missedAttachment": "Qoşma tapılmadı"
   },
   "sections": {
     "report": "Hesabat",
