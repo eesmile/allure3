@@ -1,0 +1,1 @@
+{"id":"da5d085777815d6781803c77822ad8fe","fullName":"test/utils/path.test.ts#path utils should normalize windows separators to posix","name":"should normalize windows separators to posix","status":"passed","testResultsByEnv":{"windows-latest":"d114855fba1b8ec45eefb987e89e6e17","ubuntu-latest":"bd5a1255152454975ec1d16ee0ffac25","macos-latest":"c12c182e0e14e6c61f5acb1e5fdeb488"}}

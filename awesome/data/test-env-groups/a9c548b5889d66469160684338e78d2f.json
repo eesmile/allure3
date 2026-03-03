@@ -1,0 +1,1 @@
+{"id":"a9c548b5889d66469160684338e78d2f","fullName":"test/utils/path.test.ts#path utils should keep valid posix path segments stable","name":"should keep valid posix path segments stable","status":"passed","testResultsByEnv":{"windows-latest":"78de2b115f6210726db4ab226b87327d","ubuntu-latest":"3760f6ca996b82cf168d57f9eed1fd1b","macos-latest":"a7ea837dc3bafd66e11ba61e9cdc37a4"}}
