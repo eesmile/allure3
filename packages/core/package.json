@@ -42,7 +42,7 @@
     "@allurereport/reader": "workspace:*",
     "@allurereport/reader-api": "workspace:*",
     "@allurereport/service": "workspace:*",
-    "@allurereport/summary": "workspace:*",
+    "@allurereport/summary": "3.0.0",
     "handlebars": "^4.7.8",
     "node-stream-zip": "^1.15.0",
     "p-limit": "^7.2.0",
