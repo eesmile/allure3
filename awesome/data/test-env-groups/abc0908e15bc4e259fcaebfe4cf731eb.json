@@ -1,0 +1,1 @@
+{"id":"abc0908e15bc4e259fcaebfe4cf731eb","fullName":"test/utils/environment.test.ts#validateEnvironmentName rejects control characters","name":"rejects control characters","status":"passed","testResultsByEnv":{"windows-latest":"d90d96fe86bbfe41473bd015acd62bec","ubuntu-latest":"a3416090a742ce6bda417e1bb6a357ef","macos-latest":"355e2d99d2c38f236f81db8d46ad7abe"}}

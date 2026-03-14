@@ -1,0 +1,1 @@
+{"id":"dc5fdc9dcf43454aa723f97b723fcca7","fullName":"test/config.test.ts#resolveConfig should return provided environment name","name":"should return provided environment name","status":"passed","testResultsByEnv":{"windows-latest":"a1554c52c4ab983c16405cfa6a7d22db","ubuntu-latest":"ffb3e019ce5a15f428ea7f64f2cb14ef","macos-latest":"5a1b52a3d7750cc0e18863174235fc1b"}}

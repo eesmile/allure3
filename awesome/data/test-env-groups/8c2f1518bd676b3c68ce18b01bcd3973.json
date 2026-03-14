@@ -1,0 +1,1 @@
+{"id":"8c2f1518bd676b3c68ce18b01bcd3973","fullName":"test/utils/environment.test.ts#validateEnvironmentName rejects non-string input","name":"rejects non-string input","status":"passed","testResultsByEnv":{"windows-latest":"988e7e12dbcfafc3f90f327482c1ca27","ubuntu-latest":"8916734508bef172e4ad9537be2ef2f8","macos-latest":"82b5c2955b306cda6d66d4f4794c4e3b"}}

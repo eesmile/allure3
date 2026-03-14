@@ -1,0 +1,1 @@
+{"id":"80a8a1e23638c6382ee379b8715b3287","fullName":"allure-awesome/features/attachments.test.ts:457:5","name":"opens Playwright Trace in a new tab","status":"passed","testResultsByEnv":{"windows-latest":"631e8cb220b05b9ce20351e7381d5b16","ubuntu-latest":"253f7a7d73eb4631ab53ea35f3658b8e","macos-latest":"7d61546912934880789e4ef8e9ab6c5e"}}

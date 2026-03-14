@@ -1,0 +1,1 @@
+{"id":"03bfd0a76267a7fc48474d5dcf3f9aef","fullName":"test/utils/environment.test.ts#validateEnvironmentName rejects too long names after trim","name":"rejects too long names after trim","status":"passed","testResultsByEnv":{"windows-latest":"eb01bd8ca23f58c146d6a6058b1f1f10","ubuntu-latest":"3a1489414c91d1dd7796132f5830daa5","macos-latest":"8f8a7311be02b78705ae3c42e4fd37aa"}}
