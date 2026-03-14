@@ -34,7 +34,7 @@
   "dependencies": {
     "@allurereport/charts-api": "workspace:*",
     "@allurereport/ci": "workspace:*",
-    "@allurereport/core": "workspace:*",
+    "@allurereport/core": "3.0.0",
     "@allurereport/core-api": "workspace:*",
     "@allurereport/directory-watcher": "workspace:*",
     "@allurereport/plugin-allure2": "workspace:*",
@@ -42,7 +42,7 @@
     "@allurereport/plugin-awesome": "workspace:*",
     "@allurereport/plugin-classic": "workspace:*",
     "@allurereport/plugin-csv": "workspace:*",
-    "@allurereport/plugin-dashboard": "workspace:*",
+    "@allurereport/plugin-dashboard": "3.0.0",
     "@allurereport/plugin-jira": "workspace:*",
     "@allurereport/plugin-log": "workspace:*",
     "@allurereport/plugin-progress": "workspace:*",
