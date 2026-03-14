@@ -36,7 +36,7 @@
     "@allurereport/core-api": "workspace:*",
     "@allurereport/plugin-api": "workspace:*",
     "@allurereport/web-commons": "workspace:*",
-    "@allurereport/web-dashboard": "workspace:*",
+    "@allurereport/web-dashboard": "3.0.0",
     "d3-shape": "^3.2.0",
     "handlebars": "^4.7.8"
   },
