@@ -33,8 +33,8 @@
     "@allurereport/core-api": "workspace:*",
     "@allurereport/plugin-api": "workspace:*",
     "@allurereport/web-awesome": "workspace:*",
-    "@allurereport/web-classic": "workspace:*",
-    "@allurereport/web-commons": "workspace:*",
+    "@allurereport/web-classic": "3.0.0",
+    "@allurereport/web-commons": "3.0.0",
     "d3-shape": "^3.2.0",
     "handlebars": "^4.7.8",
     "markdown-it": "^14.1.0"
